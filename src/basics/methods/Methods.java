@@ -20,6 +20,18 @@ public class Methods {
 
         //Java automatically manages the call stack using the Java Virtual Machine (JVM).
 
-        //TODO: Types of method
+        //Types of Methods:
+        // 1. Predefined Methods
+        /*method that is already defined in the Java class libraries.
+         It is also known as the standard library method or built-in method. For example, random()*/
+
+        double val = Math.random();
+        System.out.println("Random value generated is: "+val);
+
+        //2.User defined metohds:
+        /*The method written by the user or programmer is known as a user-defined method.
+         These methods are modified according to the requirement*/
+
+        //Ways to create java methods --> TODO
     }
 }
