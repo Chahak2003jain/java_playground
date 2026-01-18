@@ -6,4 +6,7 @@ public class JavaStrings {
     String str = "Chahak";
     //2.Using heap memory
     String s = new String("ChahakJain");
+    
+    
+    //String pool -- todo
 }
